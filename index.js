@@ -3,7 +3,14 @@ const adventures = require("./json/adventures.json");
 const featuredAdventures = require("./json/featuredAdventures.json");
 const testimonials = require("./json/testimonials.json");
 const app = express();
+const cors = require('cors')
 const port = 3000;
+
+app.use(cors());
+
+// app.use(cors({
+//     origin: "http://localhost:5173",
+//   }));
 
 app.get("/", (req, res) => {
     res.sent("This Is Home Page.");
