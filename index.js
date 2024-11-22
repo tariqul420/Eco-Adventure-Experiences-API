@@ -8,21 +8,6 @@ const port = 3000;
 
 app.use(cors());
 
-// app.use(cors({
-//     origin: "http://localhost:5173",
-//   }));
-
-app.get("/", (req, res) => {
-    res.sent("This Is Home Page.");
-    res.sent(`Adventures API ${`https://eco-adventure-experiences-api.vercel.app/adventures`}`);
-
-    res.sent(`Adventures Details API ${`https://eco-adventure-experiences-api.vercel.app/adventures/2`}`);
-
-    res.sent(`FeaturedAdventures Details API ${`https://eco-adventure-experiences-api.vercel.app/featuredAdventures`}`);
-
-    res.sent(`Testimonials Details API ${`https://eco-adventure-experiences-api.vercel.app/testimonials`}`);
-});
-
 app.get("/adventures", (req, res) => {
     res.send(adventures);
 });
