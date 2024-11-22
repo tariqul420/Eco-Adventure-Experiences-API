@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Alice Johnson",
+        "location": "New York, USA",
+        "review": "GreenQuest Adventures provided an unforgettable trekking experience! The guides were knowledgeable, and the eco-friendly practices made the trip even more special.",
+        "rating": 5,
+        "image": "https://i.postimg.cc/tRDPZ4Hc/images.jpg"
+    },
+    {
+        "id": 2,
+        "name": "James Smith",
+        "location": "London, UK",
+        "review": "Had a fantastic time on the wildlife safari. The attention to sustainability was impressive, and the family-friendly approach made it perfect for my kids.",
+        "rating": 4,
+        "image": "https://i.postimg.cc/FRpfLDwS/channels4-profile.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Sophia Lee",
+        "location": "Toronto, Canada",
+        "review": "A truly amazing experience! I learned so much about eco-conscious travel while exploring the beautiful forests and beaches. Highly recommended!",
+        "rating": 5,
+        "image": "https://i.postimg.cc/3NwkC2Hc/download.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Daniel Wright",
+        "location": "Sydney, Australia",
+        "review": "The camping trip was amazing. I loved that it was eco-friendly and still filled with adventure. Can’t wait to book another trip with GreenQuest!",
+        "rating": 5,
+        "image": "https://i.postimg.cc/RhbNPqSV/download.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Olivia Brown",
+        "location": "Paris, France",
+        "review": "I had such an enriching experience during the forest expedition. The guides were so passionate about nature conservation, and the trip was just breathtaking.",
+        "rating": 4,
+        "image": "https://i.postimg.cc/4487426k/download.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Michael Davis",
+        "location": "Berlin, Germany",
+        "review": "An incredible journey through the mountains! The sustainable practices really resonated with me, and I will definitely book another adventure soon.",
+        "rating": 5,
+        "image": "https://i.postimg.cc/fRdJKw6D/download.jpg"
+    }
+]

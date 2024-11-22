@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Eco Trekking in the Himalayas",
+        "description": "Join us on a breathtaking trek through the Himalayas. Experience the mountains like never before while minimizing your environmental impact.",
+        "offer": "25",
+        "image": "https://images.unsplash.com/photo-1505713379692-161f421aad05?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTB8fEVjbyUyMFRyZWtraW5nJTIwaW4lMjB0aGUlMjBIaW1hbGF5YXN8ZW58MHx8MHx8fDA%3D",
+        "link": "/adventures/himalayas-trekking"
+    },
+    {
+        "id": 2,
+        "title": "Family Wildlife Safari in Africa",
+        "description": "Take your family on a once-in-a-lifetime safari experience. Explore the wildlife in Africa with eco-friendly accommodations and guides.",
+        "offer": "20",
+        "image": "https://plus.unsplash.com/premium_photo-1664304419112-e1456ae57764?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8RmFtaWx5JTIwV2lsZGxpZmUlMjBTYWZhcmklMjBpbiUyMEFmcmljYXxlbnwwfHwwfHx8MA%3D%3D",
+        "link": "/adventures/wildlife-safari"
+    },
+    {
+        "id": 3,
+        "title": "Eco-Camping Retreat in the Amazon",
+        "description": "Immerse yourself in the Amazon rainforest with our eco-camping adventure. Discover the incredible wildlife and learn about sustainable living.",
+        "offer": "15",
+        "image": "https://images.unsplash.com/photo-1492648272180-61e45a8d98a7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8RWNvJTIwQ2FtcGluZyUyMFJldHJlYXQlMjBpbiUyMHRoZSUyMEFtYXpvbnxlbnwwfHwwfHx8MA%3D%3D",
+        "link": "/adventures/amazon-camping"
+    }
+]

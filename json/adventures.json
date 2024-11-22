@@ -1,0 +1,321 @@
+[
+    {
+        "id": 1,
+        "adventureTitle": "Majestic Mountain Trek",
+        "image": "https://images.unsplash.com/photo-1501786223405-6d024d7c3b8d?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "categoryName": "Mountain Treks",
+        "shortDescription": "Experience the thrill of scaling breathtaking peaks with guided treks.",
+        "adventureCost": 150,
+        "bookingAvailability": true,
+        "location": "Himalayas, Nepal",
+        "duration": "7 Days",
+        "adventureLevel": "Intermediate",
+        "includedItems": [
+            "Trekking guide",
+            "Tent accommodation",
+            "Meals",
+            "First aid kit"
+        ],
+        "ecoFriendlyFeatures": [
+            "Leave-no-trace policy",
+            "Reusable gear",
+            "Solar-powered lights"
+        ],
+        "maxGroupSize": 12,
+        "specialInstructions": [
+            "Carry reusable water bottles",
+            "Pack weather-appropriate clothing",
+            "Maintain physical fitness before trek"
+        ],
+        "gallery": [
+            "https://i.postimg.cc/tgnsvfXj/download.jpg",
+            "https://i.postimg.cc/bJQsptDV/download.jpg",
+            "https://i.postimg.cc/J0x0BCQb/download.jpg",
+            "https://i.postimg.cc/sDn1jyxz/download.jpg",
+            "https://i.postimg.cc/qRXM9HS9/images.jpg"
+        ]
+    },
+    {
+        "id": 2,
+        "adventureTitle": "Ocean Reef Diving",
+        "image": "https://images.unsplash.com/photo-1682687979601-082a1295b78f?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "categoryName": "Ocean Dives",
+        "shortDescription": "Dive into the vibrant underwater world and explore coral reefs.",
+        "adventureCost": 200,
+        "bookingAvailability": true,
+        "location": "Great Barrier Reef, Australia",
+        "duration": "3 Days",
+        "adventureLevel": "Advanced",
+        "includedItems": [
+            "Professional dive instructor",
+            "Dive equipment rental",
+            "Marine conservation briefing"
+        ],
+        "ecoFriendlyFeatures": [
+            "Eco-safe diving practices",
+            "Reef-friendly sunscreen",
+            "Marine waste cleanup participation"
+        ],
+        "maxGroupSize": 8,
+        "specialInstructions": [
+            "Provide diving certification proof",
+            "Avoid touching marine life",
+            "Use eco-friendly sunscreen"
+        ],
+        "gallery": [
+            "https://i.postimg.cc/pXgrhCfc/download.jpg",
+            "https://i.postimg.cc/G3fhVK53/download.jpg",
+            "https://i.postimg.cc/rwXyFmTv/download.jpg",
+            "https://i.postimg.cc/FRRNnkbJ/download.jpg",
+            "https://i.postimg.cc/pTpy5667/images.jpg"
+        ]
+    },
+    {
+        "id": 3,
+        "adventureTitle": "Wildlife Safari",
+        "image": "https://images.unsplash.com/photo-1725041225797-8da5106276eb?q=80&w=1528&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "categoryName": "Wildlife Safaris",
+        "shortDescription": "Witness the majestic wildlife in their natural habitat.",
+        "adventureCost": 120,
+        "bookingAvailability": true,
+        "location": "Serengeti, Tanzania",
+        "duration": "5 Days",
+        "adventureLevel": "Beginner",
+        "includedItems": [
+            "Experienced safari guide",
+            "4x4 vehicle",
+            "Binoculars",
+            "Meals and lodging"
+        ],
+        "ecoFriendlyFeatures": [
+            "Sustainable tourism",
+            "Local community support",
+            "Eco-lodges"
+        ],
+        "maxGroupSize": 10,
+        "specialInstructions": [
+            "Respect wildlife boundaries",
+            "Avoid single-use plastics",
+            "Follow guide's instructions"
+        ],
+        "gallery": [
+            "https://i.postimg.cc/dVNYZVcs/download.jpg",
+            "https://i.postimg.cc/rpdL12qS/download.jpg",
+            "https://i.postimg.cc/Zq1zjsqX/download.jpg",
+            "https://i.postimg.cc/L5Vd9HVM/images.jpg",
+            "https://i.postimg.cc/T2jvq9vH/images.jpg"
+        ]
+    },
+    {
+        "id": 4,
+        "adventureTitle": "Forest Expedition",
+        "image": "https://images.unsplash.com/photo-1511448962213-2f9bc14ed197?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "categoryName": "Forest Expeditions",
+        "shortDescription": "Discover hidden trails and learn about the diverse forest ecosystem.",
+        "adventureCost": 100,
+        "bookingAvailability": false,
+        "location": "Amazon Rainforest, Brazil",
+        "duration": "4 Days",
+        "adventureLevel": "Intermediate",
+        "includedItems": [
+            "Local guide",
+            "Camping gear",
+            "Safety equipment",
+            "Meals"
+        ],
+        "ecoFriendlyFeatures": [
+            "Zero-waste policy",
+            "Locally sourced meals",
+            "Community-based tourism"
+        ],
+        "maxGroupSize": 8,
+        "specialInstructions": [
+            "Bring insect repellent",
+            "Avoid damaging flora",
+            "Stay hydrated"
+        ],
+        "gallery": [
+            "https://i.postimg.cc/44PFxFgZ/images.jpg",
+            "https://i.postimg.cc/3JnMzxRX/download.jpg",
+            "https://i.postimg.cc/wMcjJY96/images.jpg",
+            "https://i.postimg.cc/g2j9pbXf/download.jpg",
+            "https://i.postimg.cc/Dz4tWQc6/images.jpg"
+        ]
+    },
+    {
+        "id": 5,
+        "adventureTitle": "Desert Exploration",
+        "image": "https://images.unsplash.com/photo-1682687221248-3116ba6ab483?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fERlc2VydCUyMEV4cGxvcmF0aW9ufGVufDB8fDB8fHww",
+        "categoryName": "Desert Exploration",
+        "shortDescription": "Explore vast dunes and witness stunning desert landscapes.",
+        "adventureCost": 180,
+        "bookingAvailability": true,
+        "location": "Sahara Desert, Morocco",
+        "duration": "3 Days",
+        "adventureLevel": "Beginner",
+        "includedItems": [
+            "Camel ride",
+            "Desert camp",
+            "Local guide",
+            "Meals and beverages"
+        ],
+        "ecoFriendlyFeatures": [
+            "Solar-powered camp",
+            "Recyclable utensils",
+            "Support for local tribes"
+        ],
+        "maxGroupSize": 15,
+        "specialInstructions": [
+            "Carry sun protection gear",
+            "Stay close to the group",
+            "Respect cultural norms"
+        ],
+        "gallery": [
+            "https://i.postimg.cc/MHZwjMHG/download.jpg",
+            "https://i.postimg.cc/rsgrSr9Z/download.jpg",
+            "https://i.postimg.cc/Zq1zjsqX/download.jpg",
+            "https://i.postimg.cc/Rh1jGM3D/download.jpg",
+            "https://i.postimg.cc/prVZbxG7/download.jpg"
+        ]
+    },
+    {
+        "id": 6,
+        "adventureTitle": "Mangrove Kayaking",
+        "image": "https://images.unsplash.com/photo-1651420492600-f32a13455a67?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fE1hbmdyb3ZlJTIwS2F5YWtpbmd8ZW58MHx8MHx8fDA%3D",
+        "categoryName": "Mangrove Expeditions",
+        "shortDescription": "Paddle through serene mangroves and discover their unique ecosystem.",
+        "adventureCost": 90,
+        "bookingAvailability": true,
+        "location": "Sundarbans, Bangladesh",
+        "duration": "2 Days",
+        "adventureLevel": "Beginner",
+        "includedItems": [
+            "Kayak and paddle",
+            "Life jacket",
+            "Expert guide"
+        ],
+        "ecoFriendlyFeatures": [
+            "Non-motorized transport",
+            "Plastic-free snacks",
+            "Mangrove conservation support"
+        ],
+        "maxGroupSize": 6,
+        "specialInstructions": [
+            "Wear waterproof clothing",
+            "Avoid disturbing wildlife",
+            "Bring a reusable water bottle"
+        ],
+        "gallery": [
+            "https://i.postimg.cc/C5v4wt9K/download.jpg",
+            "https://i.postimg.cc/fbJR1ZLq/download.jpg",
+            "https://i.postimg.cc/8C8mkLXL/download.jpg",
+            "https://i.postimg.cc/B6pTCkSC/download.jpg",
+            "https://i.postimg.cc/Nf561dW1/images.jpg"
+        ]
+    },
+    {
+        "id": 7,
+        "adventureTitle": "Camping Retreat",
+        "image": "https://plus.unsplash.com/premium_photo-1719610048566-070afdcfc7aa?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjl8fENhbXBpbmclMjBSZXRyZWF0fGVufDB8fDB8fHww",
+        "categoryName": "Camping Retreats",
+        "shortDescription": "Relax under the stars with a peaceful camping experience.",
+        "adventureCost": 70,
+        "bookingAvailability": true,
+        "location": "Rocky Mountains, USA",
+        "duration": "2 Days",
+        "adventureLevel": "Beginner",
+        "includedItems": [
+            "Tent and sleeping bag",
+            "Campfire supplies",
+            "Meals"
+        ],
+        "ecoFriendlyFeatures": [
+            "Biodegradable utensils",
+            "Reusable camping gear",
+            "Leave-no-trace policy"
+        ],
+        "maxGroupSize": 10,
+        "specialInstructions": [
+            "Pack warm clothes",
+            "Bring a flashlight",
+            "Follow fire safety rules"
+        ],
+        "gallery": [
+            "https://i.postimg.cc/C5dqsK6F/download.jpg",
+            "https://i.postimg.cc/fyF02h6Y/download.jpg",
+            "https://i.postimg.cc/SQt8NWJj/download.jpg",
+            "https://i.postimg.cc/28bWqVZG/download.jpg",
+            "https://i.postimg.cc/xTwzLnG2/images.jpg"
+        ]
+    },
+    {
+        "id": 8,
+        "adventureTitle": "River Rafting Adventure",
+        "image": "https://plus.unsplash.com/premium_photo-1661895793842-a067125f762d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzN8fFJpdmVyJTIwUmFmdGluZyUyMEFkdmVudHVyZXxlbnwwfHwwfHx8MA%3D%3D",
+        "categoryName": "River Adventures",
+        "shortDescription": "Conquer thrilling rapids in a guided river rafting experience.",
+        "adventureCost": 110,
+        "bookingAvailability": true,
+        "location": "Zambezi River, Zambia",
+        "duration": "1 Day",
+        "adventureLevel": "Advanced",
+        "includedItems": [
+            "Raft and safety gear",
+            "Professional instructor",
+            "Lunch"
+        ],
+        "ecoFriendlyFeatures": [
+            "Eco-friendly safety equipment",
+            "River conservation awareness",
+            "Group waste collection"
+        ],
+        "maxGroupSize": 8,
+        "specialInstructions": [
+            "Wear quick-dry clothes",
+            "Follow safety instructions",
+            "Secure all personal items"
+        ],
+        "gallery": [
+            "https://i.postimg.cc/s2yG0m0H/download.jpg",
+            "https://i.postimg.cc/vB21Ts8C/download.jpg",
+            "https://i.postimg.cc/yxwkhyZP/download.jpg",
+            "https://i.postimg.cc/XYKpFF7f/images.jpg",
+            "https://i.postimg.cc/BQK8Skrw/download.jpg"
+        ]
+    },
+    {
+        "id": 9,
+        "adventureTitle": "Northern Lights Tour",
+        "image": "https://images.unsplash.com/photo-1473711409856-39138e48cb9b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTEwfHxOb3J0aGVybiUyMExpZ2h0cyUyMFRvdXJ8ZW58MHx8MHx8fDA%3D",
+        "categoryName": "Winter Adventures",
+        "shortDescription": "Witness the mesmerizing beauty of the Aurora Borealis.",
+        "adventureCost": 250,
+        "bookingAvailability": true,
+        "location": "Tromsø, Norway",
+        "duration": "3 Days",
+        "adventureLevel": "Beginner",
+        "includedItems": [
+            "Tour guide",
+            "Transport",
+            "Hot beverages"
+        ],
+        "ecoFriendlyFeatures": [
+            "Electric transport",
+            "Local accommodations",
+            "Minimal energy usage"
+        ],
+        "maxGroupSize": 15,
+        "specialInstructions": [
+            "Pack thermal clothing",
+            "Bring a camera",
+            "Stay in designated areas"
+        ],
+        "gallery": [
+            "https://i.postimg.cc/7LY0ZXMG/download.jpg",
+            "https://i.postimg.cc/HsDMyT9C/images.jpg",
+            "https://i.postimg.cc/Bv6P0b42/images.jpg",
+            "https://i.postimg.cc/5ycXLmvm/images.jpg",
+            "https://i.postimg.cc/J45sHZhb/images.jpg"
+        ]
+    }
+]
